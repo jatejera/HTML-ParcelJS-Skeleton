@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/*SOME CSS GOES HERE*/
+
+body {
+    padding-top: 5rem;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+body h1 {
+    color: blue;
+}

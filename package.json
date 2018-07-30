@@ -1,0 +1,25 @@
+{
+  "name": "blanksite",
+  "version": "1.0.0",
+  "description": "Blank Site",
+  "main": "index.html",
+  "scripts": {
+    "dev": "parcel entry.js",
+    "build": "parcel build entry.js --public-url ./"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "cssnano": "^4.0.3",
+    "node-sass": "^4.9.2"
+  },
+  "author": "Julian Tejera (jats.tejera@gmail.com)",
+  "license": "MIT"
+}
